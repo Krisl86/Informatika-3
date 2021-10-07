@@ -1,0 +1,5 @@
+﻿  Data.c
+  Losovanie.c
+C:\Users\lepka\source\repos\Losovanie_cv2_Mulík_5ZYR22\Losovanie.c(14,20): warning C4013: 'time' undefined; assuming extern returning int
+  Generating Code...
+  Losovanie_cv2_Mulík_5ZYR22.vcxproj -> C:\Users\lepka\source\repos\Losovanie_cv2_Mulík_5ZYR22\x64\Debug\Losovanie_cv2_Mulík_5ZYR22.exe
