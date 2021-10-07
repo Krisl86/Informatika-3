@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="Main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Data.c">
@@ -24,12 +24,24 @@
     <ClCompile Include="Losovanie.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Vystup.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Loteria.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Losovanie.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Vystup.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Loteria.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

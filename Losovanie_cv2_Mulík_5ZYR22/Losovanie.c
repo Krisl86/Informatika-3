@@ -3,10 +3,13 @@
 
 void Losuj(MUINT pocetLosovanychZrebov)
 {
+	MUINT index = 0;
 	srand((MUINT)time(0));
+
 	for (MUINT i = 0; i < pocetLosovanychZrebov && pocetZrebov >= pocetLosovanychZrebov; i++)
 	{
-
+		index = rand() % (pocetZrebov - i) + i;
+		Vymen(index, i);
 	}
 }
 

@@ -1,5 +1,3 @@
-﻿  Data.c
-  Losovanie.c
-C:\Users\lepka\source\repos\Losovanie_cv2_Mulík_5ZYR22\Losovanie.c(14,20): warning C4013: 'time' undefined; assuming extern returning int
-  Generating Code...
+﻿  Vystup.c
+C:\Users\lepka\source\repos\Losovanie_cv2_Mulík_5ZYR22\Vystup.c(9,10): warning C4476: 'printf' : unknown type field character ' ' in format specifier
   Losovanie_cv2_Mulík_5ZYR22.vcxproj -> C:\Users\lepka\source\repos\Losovanie_cv2_Mulík_5ZYR22\x64\Debug\Losovanie_cv2_Mulík_5ZYR22.exe

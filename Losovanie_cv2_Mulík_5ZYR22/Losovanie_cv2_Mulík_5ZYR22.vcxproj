@@ -141,11 +141,15 @@
   <ItemGroup>
     <ClCompile Include="Data.c" />
     <ClCompile Include="Losovanie.c" />
-    <ClCompile Include="main.c" />
+    <ClCompile Include="Loteria.c" />
+    <ClCompile Include="Main.c" />
+    <ClCompile Include="Vystup.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Data.h" />
     <ClInclude Include="Losovanie.h" />
+    <ClInclude Include="Loteria.h" />
+    <ClInclude Include="Vystup.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
